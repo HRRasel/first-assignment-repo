@@ -23,7 +23,7 @@ nav ul li{
 .btn-primary{
     color: #006A50;
     border-radius: 5px;
-    border-width: 1px;
+    border-width: 0;
     padding: 5px;
     border-color:#14b990 ;
     font-weight: 600;
