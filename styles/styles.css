@@ -62,5 +62,33 @@ nav ul li{
     margin:80px 80px 80px 30px;
 }
 
+.section-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 20px;
+}
+.skill-description{
+    color: #0E0E0E;
+    font-weight: 400px;
+    font-size: 15px;
+}
+.skill{
+    padding: 24px;
+    box-shadow:5px 6px 50px 5px #dddbdb ;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.skills{
+    margin: 70px 80px 70px 80px;
+}
+
 
 
