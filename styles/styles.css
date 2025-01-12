@@ -92,3 +92,71 @@ nav ul li{
 
 
 
+
+.second-section-title{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+}
+.second-section-description{
+    font-weight: 400;
+    font-size: 16px;
+}
+.section-container{
+    display: flex;
+    gap: 24px;
+    margin: 32px 0 32px 0;
+}
+
+.sections-title{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.section-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+}
+.first-btn{
+    background-color: #5490F5;
+     padding: 18px;
+     border-radius: 8px;
+     font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    border-width: 0;
+}
+.second-btn{
+     background-color: #09A15C;
+     padding: 18px;
+     border-radius: 8px;
+     font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    border-width: 0;
+}
+.third-btn{
+    font-size: 16px;
+      background-color: #FFC239;
+     padding: 18px;
+     border-radius: 8px;
+     font-weight: 600;
+    color: #FFFFFF;
+    border-width: 0;
+}
+.first-section{
+    background-color: #BED5F5;
+    border-radius: 16px;
+    padding: 32px;
+}
+.second-section{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px;
+}
+.third-section{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 32px;
+}
