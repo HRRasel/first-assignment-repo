@@ -191,4 +191,21 @@ nav ul li{
     font-size: 16px;
     color: #0E0E0E;
     padding: 0 24px 48px 38px;
-}
+}   
+
+
+
+ .text{
+    background-color: #F8F7F7;
+    padding: 5px 5px 5px 5px;
+ }
+ .heading{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 40px;
+ }
+ .letter-description{
+    color: #0E0E0E;
+    font-weight: 400px;
+    font-size: 16px;
+ }
