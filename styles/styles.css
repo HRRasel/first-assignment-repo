@@ -160,3 +160,35 @@ nav ul li{
     border-radius: 16px;
     padding: 32px;
 }
+
+
+.section-items{
+    padding: 48px 24px 48px 24px;
+}
+.section-script{
+    border-width: 0px;
+    border-radius: 16px;
+    box-shadow: 50px 20px 50px 20px #e3e6eb;
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 1cm;
+    background-position-y: 1cm;
+}
+.text-item{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #0E0E0E;
+    padding: 60px 24px 0px 38px;
+}
+.text-title{
+    font-weight: 600px;
+    font-size: 20px;
+    color: #0E0E0E;
+    padding: 0 24px 0 38px;
+}
+.text-description{
+    font-weight: 400px;
+    font-size: 16px;
+    color: #0E0E0E;
+    padding: 0 24px 48px 38px;
+}
