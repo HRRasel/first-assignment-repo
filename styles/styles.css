@@ -164,15 +164,16 @@ nav ul li{
 
 .section-items{
     padding: 48px 24px 48px 24px;
+    background-color:#F8F7F7 ;
 }
 .section-script{
     border-width: 0px;
     border-radius: 16px;
-    box-shadow: 50px 20px 50px 20px #e3e6eb;
     background-image: url(../images/quote-bg.png);
     background-repeat: no-repeat;
     background-position-x: 1cm;
     background-position-y: 1cm;
+    background-color: #FFFFFF;
 }
 .text-item{
     font-size: 16px;
