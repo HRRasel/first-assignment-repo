@@ -310,3 +310,59 @@ nav ul li{
     border-radius: 8px;
     padding: 13px 26px 13px 26px;
 }
+
+
+
+
+
+
+.second-satelite-model{
+    padding: 30px 0px 48px 0px ;
+    background-color: #F8F7F7;
+}
+.second-satelite{
+    display: flex;
+    gap: 32px;
+    background-color: #FFFFFF;
+    padding: 0 48px 48px 48px;
+    border-radius: 24px;
+    margin: 32px 10px 0 10px;
+}
+.second-satelite-full-description{
+    width: 758px;
+    height: 290px;
+    margin: 0px 0px 48px 0;
+}
+.second-satelite-title{
+    font-weight: 700;
+    font-size: 32px;
+    color: #0E0E0E;
+}
+.second-date-time{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+     list-style: none;
+     display: flex;
+     gap: 20px;
+     padding: 0;
+}
+.second-satelite-description{
+    color: #0E0E0E;
+    font-weight: 400;
+    font-size: 16px;
+}
+.second-btn-n{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #006A50;
+    border-width: 0;
+    border-radius: 8px;
+    padding: 13px 26px 13px 26px;
+}
+.second-satelite-pic{
+    width: 408px;
+    border-radius: 24px;
+    margin: 50px 0 0 0;
+}
