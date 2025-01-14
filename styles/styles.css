@@ -62,6 +62,19 @@ nav ul li{
     margin:80px 80px 80px 30px;
 }
 
+
+
+
+
+
+
+
+
+.skills{
+    margin: 0px 0px 0px 0px;
+    background-color: #F8F7F7;
+    padding: 5px 5px 5px 5px;
+}
 .section-title{
     font-weight: bold;
     font-size: 40px;
@@ -81,14 +94,19 @@ nav ul li{
     font-size: 15px;
 }
 .skill{
+    gap: 24px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
     padding: 24px;
-    box-shadow:5px 6px 50px 5px #dddbdb ;
-    border-radius: 10px;
-    margin-bottom: 10px;
+    
 }
-.skills{
-    margin: 70px 80px 70px 80px;
-}
+
+
+
+
+
+
+
 
 
 
@@ -165,6 +183,14 @@ nav ul li{
 }
 
 
+
+
+
+
+
+
+
+
 .section-items{
     padding: 48px 24px 48px 24px;
     background-color:#F8F7F7 ;
@@ -198,6 +224,13 @@ nav ul li{
 }   
 
 
+
+
+
+
+
+
+
 .text-area{
     box-shadow:0px 0 5px 0 #b3b1b1;
     margin: 0 0 5px 0;
@@ -216,6 +249,14 @@ nav ul li{
     font-weight: 400px;
     font-size: 16px;
  }
+
+
+
+
+
+
+
+
 
 
 .satelite-model{
