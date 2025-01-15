@@ -491,3 +491,31 @@ nav ul li{
     font-size: 16px;
     color: #0E0E0E;
 }
+
+
+
+
+
+.finishing{
+    margin: 50px;
+}
+.finishing-title{
+    font-weight: 700;
+    font-size: 32px;
+    color:#0f0f0f;
+    text-align: center;
+}
+.hr{
+     background-color: #dddcdc;
+     width: 1122px;
+     height: 2px;
+     display: inline-block;
+}
+.line{
+    text-align: center;
+}
+
+.icon{
+    margin-left: 550px ;
+    margin-top: 32px ;
+}
