@@ -366,3 +366,73 @@ nav ul li{
     border-radius: 24px;
     margin: 50px 0 0 0;
 }
+
+
+
+
+
+.donate-box{
+    background-color:#F8F7F7 ;
+}
+
+.box-title{
+    color: #0E0E0E;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 0%;
+    text-align: center;
+}
+.box-description{
+     color: #0E0E0E;
+     font-weight: 400px;
+     font-size: 16px;
+     text-align: center; 
+     margin: 0 70px 0 70px;
+}
+.money-description{
+    color: #0E0E0E;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+.btnn{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 40px 40px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    border-width: 0;
+    margin: 32px 0px 0px 0px;
+    box-shadow: 0px 2px 2px 2px #e9e7e7;
+}
+.btnn-second{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 40px 40px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    border-width: 0;
+    margin: 32px 0 0 0;
+    box-shadow: 0px 2px 2px 2px #cfcece;
+}
+
+.box-footer{
+    text-align: center;
+    margin: 32px 150px 32px 150px;
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    color: #0E0E0E;
+    box-shadow: 0px 2px 2px 2px #e9e7e7;
+}
+.bttn{
+     margin: 0 0 0 565px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 17px 34px;
+    border-width: 0;
+}
